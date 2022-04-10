@@ -1,4 +1,4 @@
-# ![tg]('./telegram.svg') service-bot ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+# ![tg]('https://bottifylab.github.io/service-bot/telegram.svg?raw=true') service-bot ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 _Бот для заказа услуг в телеграм_
  
 ![python3](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
