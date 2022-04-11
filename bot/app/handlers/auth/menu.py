@@ -8,6 +8,12 @@ from money.currency import Currency
 from app.settings import *
 from app.db.api import *
 
+def simple_menu():
+    markup = ReplyKeyboardMarkup(resize_keyboard=True)
+    service_btn = KeyboardButton("Выбрать услугу")
+    markup.add(service_btn)
+    return markup
+
 def main_menu(balance):
     formated_balance = Money(balance, Currency.RUB).format('ru_RU')
     markup = InlineKeyboardMarkup(row_width=2)
