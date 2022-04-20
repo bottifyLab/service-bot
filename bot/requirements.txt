@@ -1,6 +1,0 @@
-aiogram==2.18
-pydantic==1.8.2
-orator==0.9.9
-python-dotenv==0.19.0
-loguru
-py-money
